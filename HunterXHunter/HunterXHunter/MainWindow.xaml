@@ -1,8 +1,8 @@
 ﻿<Window x:Class="HunterXHunter.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="697.761" Width="829.478">
     <Grid>
-        
+
     </Grid>
 </Window>
